@@ -7,8 +7,7 @@ namespace Cinema
 
         static void Main(string[] args)
         {
-           
-            
+          
             Interact interact = new Interact();
 
             //Set the prices to the List
